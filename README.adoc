@@ -1,0 +1,45 @@
+= JUG Desteği
+
+İstanbul JUG (Java User Group), *Adopt a JSR* konseptini destekleyerek Java EE 8 spesifikasyonları olan JMS 2.1 ve MVC 1.0 'e katılmıştır (adopted). Böylece İstanbul Java grubu, Kurumsal Java teknolojilerinin geleceğini tayin etmede söz sahibi olmaktadır.
+
+Eğer siz de İstanbul Java grubuna katılım göstererek, Java'nın geleceğine katkı sunmak isterseniz aşağıdaki adımlar sizlere yol gösterecektir.
+
+[[java-net-kayit-olmak]]
+== Java.net projesine kayıt olmak
+
+Java EE spesifikasyonlarına dair dökümanlar, API'lar ve referans implementasyonlar https://java.net adresinde bulunmaktadır. En öncelikli meselemiz bu adresten bir üye hesabı oluşturmaktur (https://java.net/people/new[Yeni hesap açın]).
+
+== Adopt to JMS 2.1
+
+https://www.jcp.org/en/jsr/detail?id=368[JMS] (Java Message Service) 2.1 spesifikasyonu Java EE 8 versiyonuyla birlikte yayınlanacaktır. JMS 2.1 'in spesifikasyon lideri *Nigel Deakin* 'dir.
+
+JMS 2.1 spesifikasyonu için yayınlama takvimi şu şekildedir.
+
+Also see the https://java.net/projects/jms-spec/pages/JMS21Planning[JMS 2.1 Planning] page   
+
+[width="100%",options="header,footer"]
+|====================
+| Stage | Plan  
+| JSR approval | Sep 2014 
+| Expert group formation | Eylül 2014 
+| Early draft review | Q4 (Aralık) 2015 *//Bu adımda yürüyoruz*
+| Public Review | Q1 (Mart) 2016 
+| Proposed Final | Q3 (Eylül) 2016
+| Final release | H1 (Haziran) 2017 
+|====================
+
+JMS 2.1 de bir dizi değişiklikler öngörülüyor. Bunlar genel itibariyle JMS mesaj dinleyicilerini iyileştirmeye dönük. https://java.net/projects/jms-spec/pages/JMSListener2[JMSListener2] sayfasında bunları görebiliyoruz.
+
+JMSListener2 sayfasında https://java.net/projects/jms-spec/pages/JMSListener2#Background[Background] kısmında 3 adet özellik önerisi bulunuyor.
+
+[width="100%",options="header,footer"]
+|====================
+| Öneren | Öneri 
+| John Ament | https://java.net/jira/browse/JMS_SPEC-116[JMS_SPEC-116]  
+| Reza Rahman | https://java.net/jira/browse/JMS_SPEC-134[JMS_SPEC-134] 
+| Bruno Borges | https://java.net/jira/browse/JMS_SPEC-100[JMS_SPEC-100] 
+|====================
+
+Java Community Process ve JMS çalışma grubu bizlerden bu spec. önerilini okumamızı ve geri bildirimde bulmamızı istiyor. Geri bildirimleri yukarıdaki JIRA hesabına doğrudan yapabileceğimiz gibi, users@jms-spec.java.net mail grubundan da yapabiliriz.
+
+Mail grubuna katılmak için öncelikle <<java-net-kayit-olmak>> hesabı oluşturmalıyız ve ardından https://java.net/projects/jms-spec/lists adresinden *Subcribe* tuşuna basmalıyız. Bu işlemden sonra gruba mail gönderebilir ve alabiliriz.
