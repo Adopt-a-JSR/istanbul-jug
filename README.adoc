@@ -1,4 +1,4 @@
-= JUG Desteği
+//= İstanbul JUG Desteği
 
 İstanbul JUG (Java User Group), *Adopt a JSR* konseptini destekleyerek Java EE 8 spesifikasyonları olan JMS 2.1 ve MVC 1.0 'e katılmıştır (adopted). Böylece İstanbul Java grubu, Kurumsal Java teknolojilerinin geleceğini tayin etmede söz sahibi olmaktadır.
 
@@ -15,12 +15,10 @@ https://www.jcp.org/en/jsr/detail?id=368[JMS] (Java Message Service) 2.1 spesifi
 
 JMS 2.1 spesifikasyonu için yayınlama takvimi şu şekildedir.
 
-Also see the https://java.net/projects/jms-spec/pages/JMS21Planning[JMS 2.1 Planning] page   
-
 [width="100%",options="header,footer"]
 |====================
 | Stage | Plan  
-| JSR approval | Sep 2014 
+| JSR approval | Eylül 2014 
 | Expert group formation | Eylül 2014 
 | Early draft review | Q4 (Aralık) 2015 *//Bu adımda yürüyoruz*
 | Public Review | Q1 (Mart) 2016 
@@ -42,4 +40,4 @@ JMSListener2 sayfasında https://java.net/projects/jms-spec/pages/JMSListener2#B
 
 Java Community Process ve JMS çalışma grubu bizlerden bu spec. önerilini okumamızı ve geri bildirimde bulmamızı istiyor. Geri bildirimleri yukarıdaki JIRA hesabına doğrudan yapabileceğimiz gibi, users@jms-spec.java.net mail grubundan da yapabiliriz.
 
-Mail grubuna katılmak için öncelikle <<java-net-kayit-olmak>> hesabı oluşturmalıyız ve ardından https://java.net/projects/jms-spec/lists adresinden *Subcribe* tuşuna basmalıyız. Bu işlemden sonra gruba mail gönderebilir ve alabiliriz.
+Mail grubuna katılmak için öncelikle <<java-net-kayit-olmak>> hesabı oluşturmalıyız ve ardından https://java.net/projects/jms-spec/lists adresinden *Subcribe* tuşuna basmalıyız. Bu işlemden sonra gruba mail gönderebilir ve alabiliriz. Ayrıca bu bağlantıdan geçmiş mesajları da görüntüleyebilirsiniz.
