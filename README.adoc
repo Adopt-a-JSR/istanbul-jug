@@ -40,4 +40,17 @@ JMSListener2 sayfasında https://java.net/projects/jms-spec/pages/JMSListener2#B
 
 Java Community Process ve JMS çalışma grubu bizlerden bu spec. önerilini okumamızı ve geri bildirimde bulmamızı istiyor. Geri bildirimleri yukarıdaki JIRA hesabına doğrudan yapabileceğimiz gibi, users@jms-spec.java.net mail grubundan da yapabiliriz.
 
-Mail grubuna katılmak için öncelikle <<java-net-kayit-olmak>> hesabı oluşturmalıyız ve ardından https://java.net/projects/jms-spec/lists adresinden *Subcribe* tuşuna basmalıyız. Bu işlemden sonra gruba mail gönderebilir ve alabiliriz. Ayrıca bu bağlantıdan geçmiş mesajları da görüntüleyebilirsiniz.
+[NOTE]
+====
+JSR ile alakalı girilen yorumlarda ve detaylarda kendinizi tanıtmayı unutmayın.
+
+Örnek bir eposta girişi::
+
+Hello, I'm Rahman from Istanbul JUG.
+
+Örnek bir eposta başlığı::
+
+[Adopt-a-JSR] How can we join Adopt a JSR programme?
+====
+
+Mail grubuna katılmak için öncelikle <<java-net-kayit-olmak>> hesabı oluşturmalıyız ve ardından https://java.net/projects/jms-spec/lists adresinden *Subcribe* tuşuna basmalıyız. Bu işlemden sonra gruba mail gönderebilir ve alabiliriz. Ayrıca bu bağlantıdan geçmiş arşiv mesajları da görüntüleyebilirsiniz.
